@@ -2,7 +2,7 @@ public class Hello
 {
   public static void main(String args)
   {
-    System.out.println("this is hello.java file")
+    System.out.println("this is hello.java file");
   
     }
 }
